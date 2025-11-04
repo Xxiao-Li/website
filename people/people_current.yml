@@ -21,9 +21,6 @@
   bluesky: tanyadoesscience.bsky.social
   orcid: 0000-0001-6067-1349
   www: https://tanyadoesscience.com/
-- name: "Alina Smith"
-  description: ""
-  image: people/mugshots/asmith.jpg
 - name: "Hana Mayall"
   description: "Multiple stressors"
   image: people/mugshots/hmayall.jpg
@@ -68,4 +65,3 @@
   www: https://thomasfjohnson.webnode.co.uk/
   googlescholar: M9TZihsAAAAJ
   email: t.f.johnson@sheffield.ac.uk
-- name: "Alex Powell"
